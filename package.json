@@ -1,0 +1,15 @@
+{
+  "author": "Carl Hörberg <carl.hoerberg@gmail.com>",
+  "name": "mqtt-sse",
+  "description": "Sample app using SSE and MQTT",
+  "version": "0.0.1",
+  "homepage": "http://www.cloudmqtt.com",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "mqtt":">= 0.0.1",
+    "express":">= 0.0.1",
+    "jade":"x"
+  }
+}

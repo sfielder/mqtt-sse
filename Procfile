@@ -1,1 +1,1 @@
-web: bin/thin start -p $PORT -e production
+web: node server.js
